@@ -1,0 +1,21 @@
+---
+title: "Karen KW Wong"
+image: "profile-pic.jpg"
+#color1: "#5A59A3"
+#color2: "#C66060"
+#angle: 130
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/karen-kw-wong-8878b6257"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/karen-w"
+  - label: Email
+    url: "mailto:wkwkaren83@email.com"
+output:
+  postcards::jolla
+---
+ 
+I'm a Hong Kong-based researcher in crustacean biology with a special interest in omics data analytics and visualization using the R language. 
+
